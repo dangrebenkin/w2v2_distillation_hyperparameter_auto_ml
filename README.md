@@ -1,4 +1,4 @@
-# w2v2_distillation_hyperparameter_auto_ml
+# Student Hyperparameter Tuning in ASR Knowledge Distillation
 The code of knowledge distillation hyperparameter tuning task for AINL AutoML Workshop 2024 paper "Size Matters: About 
 Optimal Amount of Speech Data for Student Hyperparameter Tuning in ASR Knowledge Distillation".
 
